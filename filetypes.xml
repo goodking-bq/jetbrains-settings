@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="doc" type="PLAIN_TEXT" />
+      <mapping pattern="Dockfile" type="PLAIN_TEXT" />
+      <mapping ext="toxl" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

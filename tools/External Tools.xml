@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="gf" description="gf" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/gf" />
+      <option name="PARAMETERS" value="pack config,public boot/data.go -n boot -y" />
+      <option name="WORKING_DIRECTORY" value="/Volumes/work/yunwei-dingding-go" />
+    </exec>
+  </tool>
+</toolSet>
