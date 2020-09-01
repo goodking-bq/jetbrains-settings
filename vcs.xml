@@ -3,6 +3,14 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="http://git.2xi.com" />
+          <option name="userName" value="zoushunjin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="120225883@qq.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://gitlab.kube.2xi.com" />
           <option name="userName" value="golden" />
         </UrlAndUserName>
@@ -10,6 +18,7 @@
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
